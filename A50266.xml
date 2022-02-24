@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the opening of rivers for navigation the benefit exemplified by the two Avons of Salisbury and Bristol : with a Mediterranean passage by water for billanders of thirty tun, between Bristol and London, with the results.</title>
+            <author>Mathew, Francis, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50266</idno>
+            <idno type="STC">Wing M1287D</idno>
+            <idno type="STC">ESTC R32418</idno>
+            <idno type="EEBO-CITATION">12677822</idno>
+            <idno type="OCLC">ocm 12677822</idno>
+            <idno type="VID">65600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65600)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1531:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the opening of rivers for navigation the benefit exemplified by the two Avons of Salisbury and Bristol : with a Mediterranean passage by water for billanders of thirty tun, between Bristol and London, with the results.</title>
+                  <author>Mathew, Francis, Esquire.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p. : map.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cottrel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped, with loss of print.</note>
+                  <note>Reproduction of original in the Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Canals --  England.</term>
+               <term>Inland navigation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65600:1"/>
+            <p>OF THE OPENING OF RIVERS FOR NAVIGATION, The Benefit exemplified, By The Two <hi>AVONS</hi> Of <hi>Salisbury</hi> and <hi>Briſtol.</hi> WITH A <hi>Mediterranean</hi> Paſſage by Water for BILLANDERS of Thirty Tun, between <hi>Briſtol</hi> and <hi>London. With the Reſults.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>James Cottrel,</hi> 1655.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:65600:2"/>
+            <pb facs="tcp:65600:2"/>
+            <head>
+               <hi>To his Highneſs, OLIVER, Lord PROTECTOR of the Common<g ref="char:EOLhyphen"/>wealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions thereto belonging.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough this following Deſign be ſee forth both plain in ſpeech, and unpo<g ref="char:EOLhyphen"/>liſhed for eloquence (my <hi>Genius</hi> ha<g ref="char:EOLhyphen"/>ving not aſſumed the one, nor my en<g ref="char:EOLhyphen"/>deavors in Literature attained the o<g ref="char:EOLhyphen"/>ther) not for want of deſire, but abi<g ref="char:EOLhyphen"/>litie to perform it: Yet notwithſtan<g ref="char:EOLhyphen"/>ding I beſeech your Highneſs favor to make the beſt Con<g ref="char:EOLhyphen"/>ſtruction of it, which here I moſt humbly preſent to your Highneſs, under whoſe wing I flye for protection and aſsi<g ref="char:EOLhyphen"/>ſtance,
+<pb facs="tcp:65600:3"/>which otherwiſe will be an <hi>Embryo</hi> or <hi>Abortive</hi> never to receive life, if not animated by your powerful hand.</p>
+            <p>Wherefore in all humility I do make this Addreſs unto your Highneſs, by the great luſtre owned to your Name from all parts of <hi>Europe,</hi> your Conqueſt of the <hi>Seas</hi> making your Highneſs receive famous and renowned Courtſhip from all Princes; All Lands being ambitious of our friend<g ref="char:EOLhyphen"/>ſhip, in Contemplation of divine Providence thus advan<g ref="char:EOLhyphen"/>cing you and your affairs: And as your Highneſs is thus eſteemed by all Forrein Nations for your happy archieve<g ref="char:EOLhyphen"/>ments, ſo I the humbleſt of your ſervants am deſirous, by preſenting this which is the firſt Domeſtick ſervice, to your Highneſs Conſideration, to make you as popular at home as you are abroad, that all may ſee your aims are no other than the true advancement of the Publick good of this people now under your Highneſs Government; the continuance whereof ſhall have the daily prayers of him, that as in duty bound, remains</p>
+            <closer>
+               <dateline>
+                  <date>July the <hi>9. 1655.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your Highneſs, though unworthy, yet moſt humble and faithful Servant,</hi>
+Francis Mathew.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>If your Highneſs approve of this Overture pre<g ref="char:EOLhyphen"/>ſented, and be pleaſed to Command my Attendance on the Lords of your Highneſs moſt Honorable Privy-Council, I ſhall be ready to give them fur<g ref="char:EOLhyphen"/>ther Satisfaction herein, for perfecting this Deſign, and removing all difficulties.</hi>
+               </p>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65600:3" rendition="simple:additions"/>
+            <head>
+               <hi>Of the opening of Rivers for Na<g ref="char:EOLhyphen"/>vigation,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe Papers we are not to re<g ref="char:EOLhyphen"/>flect upon this Iſland, as capa<g ref="char:EOLhyphen"/>ble of ſuch waterings as the flat Netherlands, whoſe benefits may ſeem to allure us to the like induſtry; nevertheleſs <hi>Englands</hi> fair Valleys, and rich Inlets, through which many noble Ri<g ref="char:EOLhyphen"/>vers inſinuate themſelves, might with the imitation of the induſtrious Netherlanders be made in many places docible of Navigation, to the ineſtimable comfort, ſatisfaction, eaſe, and profit of the pub<g ref="char:EOLhyphen"/>lick, eſpecially during the ſeven (which we call) winter-months, when waters abound in our Ri<g ref="char:EOLhyphen"/>vers, and the Sea-coaſts ſo dangerous for Naviga<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Objections of the difference of the Soyl, muſt not deterr us from ſo advantagious an enter<g ref="char:EOLhyphen"/>prize,
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:65600:4"/>terman will not think himſelf highly advanced, to come out of a River into the Sea; out of a Bil<g ref="char:EOLhyphen"/>lander to a man of War, whoſe conſtant pay will be far greater, and whoſe imployment will be of much more credit, and carry with it more hope of pre<g ref="char:EOLhyphen"/>ferment?</p>
+            <p>Hence alſo many thouſands of Horſe, now only uſed for Packs and Burthens, would be ſpared, and ſo multiplied for Warlike ſervice, and their feeding imployed upon improveable ſtocks.</p>
+            <p>The facility of Commerce from one place to a<g ref="char:EOLhyphen"/>nother, and the cheapneſs of tranſportation of Commodities without ſo much grinding and plowing up our high-wayes, which maketh them now in ſo many places ſo impaſſable.</p>
+            <p>You ſhall ſee Weſtern Waggons, which they call Plows, carry forty hundred weight; inſomuch as between <hi>Briſtol</hi> and <hi>Marlborough,</hi> they have been en<g ref="char:EOLhyphen"/>forced at a Hill they call <hi>Bagdown</hi>-hill, to put twen<g ref="char:EOLhyphen"/>ty beaſts, Horſe and Oxen, to draw it up: This great abuſe by this means would be taken away, by keeping our high-wayes pleaſant; and withal, by this tranſportation of Commodities by River, the price of Commodities would fail.</p>
+            <p>The Impoſition, though eaſie, laid upon every ſuch Navigable paſſage, would, as Rivers by de<g ref="char:EOLhyphen"/>grees are opened, amount to a fair revenue, without any grievance at all to the people, but rather with much comfort as it is imbraced in other Countries, where they cannot live without the help of theſe Billanders, paſſing and repaſſing daily from Town to Town, from Market to Market, and from Coaſt to Coaſt; theſe be only ſome few of ſo many bene<g ref="char:EOLhyphen"/>fits which will reſult from the opening of Rivers.</p>
+            <pb n="5" facs="tcp:65600:4" rendition="simple:additions"/>
+            <div type="part">
+               <head>General Obſervations upon all Rivers as they are thought fit to be made Navigable.</head>
+               <p>To riſe as high in opening the ſaid Rivers as they ſhall be found feazable, there to make a Wharf, Magazine,
+<note place="margin">
+                     <hi>See</hi> Raſtal <hi>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> large in his Ha<g ref="char:EOLhyphen"/>vens &amp; Rivers upon the</hi> 27 <hi>of</hi> Eliz.</note> or Ware<g ref="char:EOLhyphen"/>houſes for all ſuch Commodities as are uſeful to thoſe parts of the Country, both for Trade in Merchandizing, and Service in time of War, with far greater expedition.</p>
+               <p>If any other River practiceable for Boats lie neer the head,
+<note place="margin">
+                     <hi>Let the head of the Avon which falleth down from</hi> Rugby <hi>to</hi> Warwick, <hi>and ſo into the Se<g ref="char:EOLhyphen"/>verne, be exa<g ref="char:EOLhyphen"/>mined with the</hi> Welland, <hi>which riſeth neer to the head of the Avon, &amp; falleth down to</hi> Stamford, <hi>and ſo through the Iſle of</hi> Ely, <hi>into the Sea.</hi>
+                  </note> or ſide of the ſaid River, and that the ground favor the opening of a ſtill River to be drawn between them, then to joyn them with Saſſes, <hi>alias</hi> Locks, or otherwiſe. But ſhould the ground be re<g ref="char:EOLhyphen"/>pugnant, then a fair ſtone Cawſey, not exceeding one little days journey for Horſe, or Carts, to be raiſed between the ſaid Rivers; where the Navigation ends, a Wharf, or Magazine to be made as aforeſaid, if theſe Rivers reach from Sea to Sea, not other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>By the like induſtry, many Mediterranean paſſages by water, with the help of ſuch Cawſeys, would be found from one Sea to the other, and not to have the old Channel of any River to be forſaken to gain a ſhorter paſſage.) For, as hath been ſaid, Ri<g ref="char:EOLhyphen"/>vers are never out of their way; and upon theſe Navigable paſ<g ref="char:EOLhyphen"/>ages, our chief Manufactures ſhould be ſet up for the Commo<g ref="char:EOLhyphen"/>dities of tranſportation.</p>
+               <p>
+                  <hi>Object.</hi> Theſe great works alwayes bring forth great diffi<g ref="char:EOLhyphen"/>culties, though the benefit ſhould be never ſo apparent.</p>
+               <p>
+                  <hi>Anſw.</hi> Can any thing of this nature ſeem difficult <hi>to a State reſolved to do good to its people?</hi> Difficulties are the bounda<g ref="char:EOLhyphen"/>ries of narrow hearts, ſuch ought not to be the heart <hi>of a State,</hi> which ſhould moſt rejoyce in difficult things, in the overcoming of which, ſo much honor is atchieved.</p>
+               <p>A buſineſs well pondered and ſeriouſly reſolved on, by a powerful <hi>
+                     <g ref="char:V">Ʋ</g>ndertaker,</hi> is carried like the world upon <hi>Atlas</hi> ſhoulders, without groaning.</p>
+               <p>
+                  <hi>Object.</hi> 2. Moſt of our Rivers in the Summer time will want water to carry a Boat, even our Thames ſometimes is ſo ſhal<g ref="char:EOLhyphen"/>low, as our Barges are gravelled.</p>
+               <p>
+                  <hi>Anſw.</hi> Such Rivers as ſhall be judged fit for Navigation muſt not be debarred the Contribution which other Springs, Brooks, and Rivers would give them; wherefore all ſuch
+<pb n="6" facs="tcp:65600:5"/>Streams,
+<note place="margin">
+                     <hi>Theſe expreſly forbidden in</hi> Magna Char<g ref="char:EOLhyphen"/>ta, <hi>Cap.</hi> 2. <hi>See</hi> Henr. pri<g ref="char:EOLhyphen"/>mi, <hi>Cap.</hi> 12. <hi>Al<g ref="char:EOLhyphen"/>ſo</hi> Walſing<g ref="char:EOLhyphen"/>ham, <hi>in</hi> Edw. 3 <hi>And ſee</hi> John Davis <hi>in his</hi> I<g ref="char:EOLhyphen"/>riſh <hi>Reports.</hi>
+                  </note> great or ſmall, which would willingly fall into our ſaid Rivers deſigned for Navigation, ought to be free, and not to be bound up with Wears, Sluces, Pens for Mills, and the like <hi>impreſtures,</hi> which keep up, ſtop, and divert the Waters from their natural Courſe, and fall into thoſe Navigable Rivers.</p>
+               <p>Thoſe Mills either the State ſhould buy of the Owners of them, and erect for every Water-mill three Horſe-mills, for the neceſſity of the Country adjoyning, or ſo agree with the Owners of them, that they pulling up their Water-mills and ſuch apparent purpreſtures for the free Courſe of Waters ſhould themſelves ſet up the ſaid Horſe-mills for the uſe of the Country in places more convenient, then to go in ſome place a mile or two to a Water-mill, which asketh a days imployment for a man and Horſe.</p>
+               <p>And truly, if the conſumption of our Timber hold on but ſome few yeers more, there will be none left to build either Wa<g ref="char:EOLhyphen"/>ter-mill or Wind-mill, they requiring the beſt and ſtrongeſt Tim<g ref="char:EOLhyphen"/>ber we have: ſo that of neceſſity we ſhall be driven to ſet up theſe Horſe-mills, which are built with our meaneſt Wood, our Oak being little enough to maintain our Shipping, were it never ſo well preſerved hereafter.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Avon</hi> of <hi>Briſtol</hi> made Navigable as high as <hi>Malmsbury</hi> and <hi>Calne,</hi> with the Profits for Tranſportation of Coals and other Com<g ref="char:EOLhyphen"/>modities.</head>
+               <p>Which alſo may with facility produce a Mediterranean paſ<g ref="char:EOLhyphen"/>ſage by water from <hi>Briſtol</hi> to <hi>London.</hi>
+               </p>
+               <p>The Coal-pits in <hi>Kings-wood</hi> neer <hi>Briſtol,</hi> and if they ſuf<g ref="char:EOLhyphen"/>fice not thoſe Colliaries upon the Severn-ſide to furniſh that Country ſo much deſtitute of Fuel up to <hi>Malmsbury</hi> and <hi>Calne,</hi> in this manner may be looked upon: This River made Na<g ref="char:EOLhyphen"/>vigable for Billanders flat-bottomed Boats of thirty tun, which draw loaden but three foot and an half of water. The work being feazable at a far leſs Charge than the yeerly Profit will come to, theſe Collyers are to be dealt with to bring Coal ei<g ref="char:EOLhyphen"/>ther out of <hi>Kings-wood,</hi> or from the Severn, to a place aſſigned them for wharfage, they affording the <hi>Newcaſtle</hi> Chaldron at the ſaid Wharfage for 10 <hi>s.</hi> 2 <hi>d.</hi>
+               </p>
+               <pb n="7" facs="tcp:65600:5"/>
+               <p>Thoſe Collyers in <hi>Wales,</hi> the State may take it into their own hands, giving the Owners yeerly more for them then they now make.</p>
+               <p>Theſe Colliaries ſetled,
+<note place="margin">
+                     <hi>Theſe of Kingſ<g ref="char:EOLhyphen"/>wood are upon the</hi> States <hi>own ſoyl.</hi>
+                  </note> and the River of <hi>Briſtol</hi> made Na<g ref="char:EOLhyphen"/>vigable, <hi>the State</hi> to licence 300 of theſe Billanders, each bea<g ref="char:EOLhyphen"/>ring thirty Chaldron (only <hi>London</hi> meaſure) and theſe to bring Coal from the Wharf up the ſaid River as high as <hi>Malms<g ref="char:EOLhyphen"/>bury</hi> and <hi>Calne,</hi> paying 10 <hi>s.</hi> 2 <hi>d.</hi> the <hi>London</hi> Chaldron at the Wharf, and 5 <hi>s.</hi> for every ſuch Chaldron for the paſſage up the River, and ſell them at <hi>Malmsbury</hi> and <hi>Calne</hi> for 18 <hi>s.</hi> 2 <hi>d.</hi> the <hi>London</hi> Chaldron.</p>
+               <p>The Owner or Merchant of the VVharf having for every ſuch <hi>London</hi> Chaldron delivered,
+<note place="margin">
+                     <hi>Theſe ſold at</hi> 18 s. 2 d. Lon<g ref="char:EOLhyphen"/>don <hi>Chaldron.</hi>
+                  </note> 10 <hi>s.</hi> 2 <hi>d.</hi> The <hi>State</hi> for the paſſage of every ſuch Chaldron 5 <hi>s.</hi>
+               </p>
+               <p>The Billander for his fraight for every ſuch Chaldron, 3 <hi>s.</hi>
+               </p>
+               <p>The difference of <hi>Newcaſtle</hi> and <hi>London</hi> meaſure in the Chaldron, being a third Coal, two <hi>Newcaſtle</hi> Chaldron ma<g ref="char:EOLhyphen"/>king three of <hi>London: The ſurplus of meaſure ſhould be gi<g ref="char:EOLhyphen"/>ven to the State,</hi> to be landed neer the ſaid VVharfs, upon a VVharf called the <hi>States Wharf.</hi>
+               </p>
+               <p>The other VVharfs to be divided into ſix;
+<note place="margin">
+                     <hi>Surplus of mea<g ref="char:EOLhyphen"/>ſure to belong to the</hi> State.</note> every VVharf ha<g ref="char:EOLhyphen"/>ving his ſquadron of 50 Billanders, belonging to the Owners and Merchants of the ſeveral VVharfs; which VVharfs may have their Names from the Colours they ſhall bear.</p>
+               <p>Theſe Wharfs to be kept by the Owners of the Coal which lieth upon them, who are to receive (as hath been ſaid) 10 <hi>s.</hi> 2 <hi>d.</hi> for every Chaldron given out, <hi>London</hi> meaſure.</p>
+               <p>Theſe Billanders are to ſayl up the River, every ſquadron by its ſelf, having each his Admiral, and Rear-Admiral, carrying their Flags of proper Colours, none of the ſaid ſquadron ſayling before his Admiral, nor any behinde his Rear-Admiral; and this to prevent diſorder as they paſs through the Country.</p>
+               <p>They are ſo to diſcharge both the duties at the Wharf, and the duties for the Paſſage, as to make no ſtay at all.</p>
+               <p>Every Admiral at the diſcharge of the duties for his whole ſquadron (for he is to undertake it) is to receive a Ticket for his free paſſage through the River, without which they are not to paſs the Block-houſe or Fort for preſerving the <hi>States reve<g ref="char:EOLhyphen"/>nue.</hi>
+               </p>
+               <pb n="8" facs="tcp:65600:6" rendition="simple:additions"/>
+               <p>Theſe Wharfs aforeſaid, are to have correſpondent Wharfs at <hi>Malmsbury</hi> and <hi>Calne,</hi> and to be regulated as the former, one Squadron not unlading at anothers Wharf, where each Bil<g ref="char:EOLhyphen"/>lander is to receive for its fraight of 30 Chaldrons, 4 <hi>l.</hi> 10 <hi>s.</hi> every voyage; and two of theſe voyages may well be made in one month.</p>
+               <p>The Wharfs paying the Billanders their Salary, and keeping the Coals for all ſuch as fetch it there at 18 <hi>s.</hi> 2 <hi>d.</hi> the <hi>London</hi> Chaldron.</p>
+               <p>As concerning the Coal, before ſhould be laid upon the <hi>States Wharf,</hi> being the third Coal gained in the <hi>Nowcaſtle</hi> meaſure, that alſo is to have at <hi>Malmsbury</hi> and <hi>Calne</hi> a Wharf called the <hi>States Wharf,</hi> correſponding to the former, where that ſur<g ref="char:EOLhyphen"/>plus of meaſure ſhould be had and kept for the benefit of the <hi>State,</hi> in thankfulneſs for that great charge in making the River thus Navigable, for the benefit of the Country: And thereby the benefit of the Coal, and Paſſage, cometh to <hi>the State</hi> (the fraight of the Billander only excepted.)</p>
+               <p>
+                  <table>
+                     <head>The ground-work being thus laid, the Profits are theſe:</head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Every Billanders fraight with 30 <hi>London</hi> Chaldron for the Paſſage only,
+<note place="margin">
+                              <hi>Theſe from</hi> Briſtol <hi>to</hi> Malmsbury, <hi>and</hi> Calne, <hi>making two voyages every <gap reason="illegible" resp="#UOM" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> monthe, carry</hi> 126000 <hi>Chal<g ref="char:EOLhyphen"/>dron.</hi>
+                           </note> Fruits <hi>to the State</hi> Every voyage —</cell>
+                        <cell>7</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Every Squadron of 50 of theſe Billanders fruits <hi>to the State</hi> every voyage —</cell>
+                        <cell>375</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Every voyage of 300 Billanders for Paſſage only, fruits <hi>to the State</hi> —</cell>
+                        <cell>2250</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Surplus of Meaſure</hi> to the State <hi>alone:</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Every ſuch Billander fraight with the Surplus of Meaſure upon the third Coal, fruits to the State, both for Coal and Paſſage—</cell>
+                        <cell>22</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Every Squadren of 50 Billanders, every Car<g ref="char:EOLhyphen"/>riage fraight as aforeſaid, fruits to <hi>the State</hi>—</cell>
+                        <cell>1125</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Every voyage of thoſe 300 Billanders fraight as aforeſaid, fruits to <hi>the State</hi> —</cell>
+                        <cell>6750</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The Coal as they are firſt brought to the Wharfs ſhould be ſo Ordered, as the third Coal be duly carried to the Wharf of the State.</p>
+               <p>As to cleer what hath been ſaid, If 20 Chaldron <hi>Newcaſtle</hi>
+                  <pb n="9" facs="tcp:65600:6" rendition="simple:additions"/>meaſure be brought from the Pits to the VVharfs, they are to be divided into 30 Chaldron <hi>London</hi> meaſure, of which the <hi>State</hi> is to have 10 Chaldron laid upon its VVharf; and ſo proportio<g ref="char:EOLhyphen"/>nable to all that are brought from the Pits to any VVharf, the third Coal being alwayes carried to the <hi>States Wharf.</hi> The Staple of Coal being thus ſetled for all that Country about <hi>Malmsbury</hi> and <hi>Calne,</hi> and Coal being ſold there conſtantly for 18 <hi>s.</hi> 2 <hi>d.</hi> the <hi>London</hi> Chaldron to all that will fetch them, that is, at the price of 6 <hi>d.</hi> the <hi>London</hi> Buſhel; No queſtion is to be made, but that a marvelous great quantity will be thus vented, to the great bleſſing of the people, who now pay about <hi>Calne</hi> and <hi>Malmsbury</hi> never under 12 <hi>d.</hi> the Buſhel, and commonly more, being carried by horſe from <hi>Briſtol:</hi>
+                  <table>
+                     <row>
+                        <cell>Should 50000 Chaldron only be thus yeerly vented, it is a great Re<g ref="char:EOLhyphen"/>venue, and would in the very <hi>Profits to the State</hi> riſe in this ſole Commodity of Coal. unto—</cell>
+                        <cell>20833</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>That is, for Paſſage—</cell>
+                        <cell>12500</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>And for the third Coal gained—</cell>
+                        <cell>8333</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And no doubt <hi>Briſtol,</hi> ſo great a place of Traffick, would make uſe of this River as high as <hi>Calne</hi> towards the tranſporta<g ref="char:EOLhyphen"/>tion of their Merchandize <hi>from Briſtol to London,</hi> it being the worſt and moſt hilly part of the way, and lieth full in the paſ<g ref="char:EOLhyphen"/>ſage to <hi>London.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A Billander of 30 Tun, laden with Merchan<g ref="char:EOLhyphen"/>dize from <hi>Briſtol</hi> to <hi>Calne,</hi> taking but one Far<g ref="char:EOLhyphen"/>thing <hi>per</hi> pound, fruits to the <hi>State</hi> every voyage</cell>
+                        <cell>62</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>It may well make two voyages every Month.</p>
+               <p>This River being thus practiced as high as <hi>Malmsbury</hi> and <hi>Calne,</hi> ſhould our Seas be at any time infeſted with Enemy Fleets in ſuch ſort as with <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eminent danger, <hi>London</hi> and other parts of this Common-wealth, could not be ſerved with Coal from <hi>Newcaſtle</hi> and <hi>Sunderland;</hi>
+               </p>
+               <p>How facile a thing it were from <hi>Malmsbury,</hi> lying upon the ſaid River, to open a paſſage for theſe Billanders of 30 Tun, which draw water but three foot and half, loaden into the Ri<g ref="char:EOLhyphen"/>ver <hi>Iſis,</hi> by <hi>Creeklade</hi> and <hi>Latchlade,</hi> and ſo into the <hi>Thames,</hi> all that land-paſſage being not above 4 or 5 miles (inviting the <hi>
+                     <g ref="char:V">Ʋ</g>ndertaker</hi>) being very low, and practicable ground, moſt fit for the Deſigne.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:65600:7" rendition="simple:additions"/>
+               <head>By this means there would be a Mediterranean paſſage from <hi>Briſtol</hi> to <hi>London</hi> by water;</head>
+               <p>Not only for the ſupply of much Coal in time of neceſſity, but for all other Commodities brought into <hi>Briſtol,</hi> which in time of Hoſtility <hi>London</hi> could not otherwiſe enjoy, but by exceſſive Rates for Land-carriages or conveyances by Sea: but by this paſſage once opened, all Commodities may be brought from <hi>Briſtol</hi> to <hi>London</hi> (even at one farthing <hi>per</hi> pound) we now paying all the winter-time for carriage by Land between <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Briſtol</hi> 4 <hi>s. per cent.</hi> and ſo preſerve our horſes for <hi>the States</hi> Service.</p>
+               <p>The whole Charge of this Navigable Paſſage would be paid with the Profits of one only yeer: And as for Coal for 2 <hi>s.</hi> more upon the <hi>London</hi> Chaldron for fraight, they alſo this way would be brought to <hi>London</hi> at 20 <hi>s.</hi> 2 <hi>d.</hi> the Chaldron, <hi>London</hi> Chaldron. Howſoever great caution ought to be uſed, that du<g ref="char:EOLhyphen"/>ring times of Peace no Coal ſhould be brought to <hi>London</hi> this way, to the end our ſhipping, which is much imployed in the tranſportation of that Commodity, might ſtill be kept up, for the ſafety, benefit, and honor of this State.</p>
+               <p>It were good that the 2 <hi>d.</hi> upon every Chaldron were paid towards the defraying of the Salary of Officers upon the VVharf, and towards the Paſſage yeerly at <hi>Cardiff,</hi> the neereſt Colliary to <hi>Briſtol,</hi> that is upon the Severn, excellent Scotiſh-Coals, which alſo would drive a great trade upon this paſſage, being ſold by the Tun.</p>
+               <p>This paſſage in time of Peace ſhould be uſed for tranſpor<g ref="char:EOLhyphen"/>tation of Merchandize to <hi>London,</hi> and from <hi>London</hi> to <hi>Briſtol,</hi> only from the firſt of <hi>October</hi> to the firſt of <hi>April,</hi> partly not to obſtruct our Navigation by Sea, all the Summer-time when the doubling of the Cape of <hi>Cornwal</hi> is not dangerous, nor our Coaſts ſo ſubject to ſtorms; And partly by reaſon of the <hi>Avon,</hi> and <hi>Iſis,</hi> and the <hi>Thames</hi> it ſelf in thoſe winter-months will not want water, which in the Summer they do: And for Coal, our Seas being not infeſted, none ſhould paſs higher then <hi>Malmsbury</hi> and <hi>Calne,</hi> not to hinder, as hath been ſaid, our Navigation, for that Commodity by Sea, which muſt ſtill be en<g ref="char:EOLhyphen"/>deavored to be kept up to the full.</p>
+               <p>Now who ſhould be the <hi>
+                     <g ref="char:V">Ʋ</g>ndertaker</hi> of this great work but
+<pb n="11" facs="tcp:65600:7"/>
+                  <hi>the State</hi> it ſelf? it being too great an expence for any private man or Corporation to lay out; and of too great a Profit for them to receive, being effected.</p>
+               <p>Some endeavors have been uſed by that noble Patriot, Sir <hi>John Harrington,</hi> to make this River Navigable between <hi>Briſtol</hi> and the <hi>Bath,</hi> which work I have ſeen:
+<note place="margin">
+                     <hi>This to be ob<g ref="char:EOLhyphen"/>ſerved well by by the Cities of</hi> Bath <hi>and</hi> Bri<g ref="char:EOLhyphen"/>ſtol, <hi>lest they labor in vain.</hi>
+                  </note> but the Deſign being too narrow for this our great Propoſal, it were in vain to be again ſet upon, either by any private man, or the ſaid two Towns, unleſs they intended to make the River and their Saſſes ſo large as the River to carry Billanders of thirty Tun, and their Saſſes to hold half a dozen of theſe Billanders at once.</p>
+               <p>I went down to ſee Sir <hi>Joh. Harringtons</hi> intended Saſs ſome two miles below the <hi>Bath,</hi> &amp; I found the Engineer to have much abuſed the noble Knight in his work, making his Saſs upon the very Dam of the River, which would have been a perpetual and forcible enemy to his work. Beſides, I found by meaſuring his Saſs, that it would contain but one only Boat, and that only of 8 Tun: which narrow Deſign would no way have ſerved to this our Mediterranean Paſſage; But muſt have been again ript up and deſtroyed: The Saſs it ſelf being to be otherwiſe placed, and made far larger.</p>
+               <p>He who hath ſeen the Saſs, between <hi>Ipris</hi> and <hi>Vuerne</hi> in <hi>Flanders,</hi> will confeſs it a noble work, and capable of Publick Service (which this I ſpoke of no way is) <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much is the memory of that noble Knight to be honored, in ſhewing himſelf to his ability, a publick man, laboring ſo much for the good of his Country.</p>
+               <p>Many Saſſes are to be made upon this River of <hi>Avon,</hi> it be<g ref="char:EOLhyphen"/>ing ſo much a fayling-water, inſomuch it is now forced to be kept up with many Dams, every one of which muſt have his Saſs, but not upon the Dam, but upon the ſide of it, as the Figure expreſſeth.</p>
+               <p>The Propoſer of this Paper hath no other intereſt in this De<g ref="char:EOLhyphen"/>ſign, than a true Patriot ought to have a deſire for the Publick good, to ſee it effected, and by it his Country ſerved: And if he ſhall perceive it imbraced, it will encourage him to offer up to the Publick ſervice of his Country other improvements of greater Conſequence.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="diagram">
+            <pb facs="tcp:65600:8"/>
+            <p>
+               <figure>
+                  <figDesc>diagram of Sir John Harrington's proposed sasse (lock) on the River Avon</figDesc>
+                  <p>Aboue and below the Damme.</p>
+                  <p>Thus the Saſse to goe</p>
+                  <p>The Auon.</p>
+                  <p>The Damme.</p>
+                  <p>Sir Iohn Harringtons Saſse</p>
+                  <p>The Auon.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:65600:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
